@@ -1,5 +1,5 @@
 ---
-# Simple Graph - Basic Algorithms
+## Simple Graph - Basic Algorithms
 **About: 
 This is my group projecc in class CSD201 to represent some basic algorithms about simple graph using Java. Output will show in java console
 
